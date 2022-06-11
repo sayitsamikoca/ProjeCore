@@ -61,6 +61,13 @@ namespace ProjeCore.Controllers
             return RedirectToAction("Index");
         }
 
+        public IActionResult BirimDetay(int id) // Detaylara tıkladığımda, o birime ait personeller listelenecek.
+        {
+            // Personel içerisinde BirimID eşittir, dışarıdan gönderien id ye eşit olan değerleri liste halinde getir
+            var degerler = context.Personels.Where(x => x.BirimID == id).ToList();
+            return View(degerler);
+        }
+
 
     }
 }

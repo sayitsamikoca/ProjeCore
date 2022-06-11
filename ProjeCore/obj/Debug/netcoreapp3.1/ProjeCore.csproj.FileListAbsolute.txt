@@ -139,3 +139,4 @@ C:\Users\sayit\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCor
 C:\Users\sayit\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.pdb
 C:\Users\sayit\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp3.1\ProjeCore.genruntimeconfig.cache
 C:\Users\sayit\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Personels\YeniPersonel.cshtml.g.cs
+C:\Users\sayit\source\repos\ProjeCore\ProjeCore\obj\Debug\netcoreapp3.1\Razor\Views\Birim\BirimDetay.cshtml.g.cs
