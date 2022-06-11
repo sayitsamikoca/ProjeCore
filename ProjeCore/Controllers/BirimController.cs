@@ -65,6 +65,11 @@ namespace ProjeCore.Controllers
         {
             // Personel içerisinde BirimID eşittir, dışarıdan gönderien id ye eşit olan değerleri liste halinde getir
             var degerler = context.Personels.Where(x => x.BirimID == id).ToList();
+
+            var birimValue = context.Birims.Where(x => x.BirimID == id).Select(y => y.BirimAd).FirstOrDefault();
+            // FirstOrDefault bana birtane veri getir..
+
+            ViewBag.birimVal = birimValue;
             return View(degerler);
         }
 
