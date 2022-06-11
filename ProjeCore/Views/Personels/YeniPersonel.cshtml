@@ -19,7 +19,7 @@
     @Html.TextBoxFor(x => x.Sehir, new {@class = "form-control"})
     <br />
     <b>Personel Birim</b>
-    @Html.DropDownListFor(x=>x.Birim.BirimID, (List<SelectListItem>)ViewBag.dgr, new {@class="form-control"})
+    @Html.DropDownListFor(x=>x.Birim.BirimID, (List<SelectListItem>)ViewBag.values, new {@class="form-control"})
     <br />
     <button class="btn btn-dark">Personel Ekle</button>
 </form>
