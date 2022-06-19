@@ -18,5 +18,5 @@
     <ol>✔️ Authorize ve Login İşlemleri Yapıldı</ol>
   </ul>
   
-  <string>📌Reminder "100 Derslik Eğitim Serisinde 2 Proje Yapmaktayız. İlk 45 Derste bu projeyi yapmaktayız.(İlk Proje)" </strong>
+  <string>📌Reminder "100 Derslik Eğitim Serisinde 2 Proje Yapmaktayız. İlk 45 Derste bu projeyi tamamladık.(İlk Proje)" </strong>
   </article>
