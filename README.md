@@ -2,7 +2,7 @@
 
 <article>
   <li>
-      Bu Projeyi Asp.Net Core MVC Öğrenme Sürecinde gerçekleştirdim.
+      Bu Projeyi Asp.Net Core MVC Öğrenme Sürecinde geliştirdim.
   </li>
   <li>Eğitim Serisi Linki : <a href="https://www.youtube.com/playlist?list=PLKnjBHu2xXNOld1njNVQ5fk0e12oqiWc8">100 Derste Asp.Net Core MVC - Murat Yücedağ</a></li>
   <li>Proje Temel CRUD İşlemlerinden Oluşmaktadır.</li>
